@@ -6,7 +6,7 @@ This project is our submission for the Rajasthan Hackathon 5.0. This is site whi
 [Link to Readme](https://docs.google.com/document/d/1EJjxj6GXzFK6c9kYIbQ_PEDlo9zAbVTU8ka9mP9hMxY/edit?usp=sharing)
 
 ### Link to video:
-[https://www.youtube.com/watch?v=6MxiNUN0SPQ&feature=youtu.be](https://www.youtube.com/watch?v=6MxiNUN0SPQ&feature=youtu.be)
+[Link to vedio on youtube](https://www.youtube.com/watch?v=6MxiNUN0SPQ&feature=youtu.be)
 
 ### Features: 
 * A dashboard showing user details as well as Notices and Circulars.
